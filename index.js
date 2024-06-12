@@ -1,5 +1,5 @@
-import {getWeights} from '../components/getWeights.js'
-import {getChart} from "../components/getChart.js"
+import {getWeights} from './components/getWeights.js'
+import {getChart} from "./components/getChart.js"
 
 // entries
 const inputs = [
